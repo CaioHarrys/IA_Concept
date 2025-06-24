@@ -22,3 +22,9 @@ O objetivo deste projeto é fornecer um guia simples e direto sobre os conceitos
 
 ## 🏗️ Estrutura
 
+📦 Conceitos_Fundamentais_IA
+┣ 📜 README.md
+┣ 📜 Quest_IA.md
+┗ 📂 img
+┗ 🖼️ bot.jpg
+
